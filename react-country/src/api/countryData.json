@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "125 million",
+    "interestingFact": "Japan is home to the world’s oldest company, Kongo Gumi, founded in 578 AD."
+  },
+  {
+    "id": 2,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": "214 million",
+    "interestingFact": "Brazil has the Amazon Rainforest, which produces 20% of the world's oxygen."
+  },
+  {
+    "id": 3,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": "111 million",
+    "interestingFact": "Egypt is home to the Great Pyramid of Giza, the last of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "26 million",
+    "interestingFact": "Australia is the only continent covered by a single country."
+  },
+  {
+    "id": 5,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": "40 million",
+    "interestingFact": "Canada has more lakes than the rest of the world combined."
+  },
+  {
+    "id": 6,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": "1.43 billion",
+    "interestingFact": "India is the world’s largest democracy with over 900 million eligible voters."
+  },
+  {
+    "id": 7,
+    "countryName": "Iceland",
+    "capital": "Reykjavik",
+    "population": "380,000",
+    "interestingFact": "Iceland runs almost entirely on renewable energy, mainly geothermal and hydroelectric power."
+  },
+  {
+    "id": 8,
+    "countryName": "South Africa",
+    "capital": "Pretoria (administrative)",
+    "population": "61 million",
+    "interestingFact": "South Africa has three capital cities: Pretoria, Cape Town, and Bloemfontein."
+  },
+  {
+    "id": 9,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": "128 million",
+    "interestingFact": "Chocolate was first made by the ancient Mesoamericans in Mexico."
+  },
+  {
+    "id": 10,
+    "countryName": "Switzerland",
+    "capital": "Bern",
+    "population": "8.7 million",
+    "interestingFact": "Switzerland is famous for never taking sides in wars; it has been neutral since 1815."
+  }
+]

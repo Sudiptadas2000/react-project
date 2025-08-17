@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "mdPlace",
+    "title": "Find Us",
+    "details": "Pune, Maharashtra"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call Us",
+    "details": "9872436432"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail Us",
+    "details": "contact@gmail.com"
+  }
+]
