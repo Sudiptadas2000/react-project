@@ -33,3 +33,9 @@ git clone https://github.com/Sudiptadas2000/World-Web-Application
 
 # Navigate to project folder
 cd react-country
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
